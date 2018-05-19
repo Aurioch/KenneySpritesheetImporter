@@ -1,0 +1,10 @@
+C:\Users\Matic\Source\Repos\KenneySpritesheetImporter\KenneySpritesheetImporter\bin\Release\KenneySpritesheetImporter.dll
+C:\Users\Matic\Source\Repos\KenneySpritesheetImporter\KenneySpritesheetImporter\bin\Release\KenneySpritesheetImporter.pdb
+C:\Users\Matic\Source\Repos\KenneySpritesheetImporter\KenneySpritesheetImporter\bin\Release\MonoGame.Framework.Content.Pipeline.dll
+C:\Users\Matic\Source\Repos\KenneySpritesheetImporter\KenneySpritesheetImporter\bin\Release\MonoGame.Framework.dll
+C:\Users\Matic\Source\Repos\KenneySpritesheetImporter\KenneySpritesheetImporter\bin\Release\MonoGame.Framework.xml
+C:\Users\Matic\Source\Repos\KenneySpritesheetImporter\KenneySpritesheetImporter\bin\Release\MonoGame.Framework.Content.Pipeline.xml
+C:\Users\Matic\Source\Repos\KenneySpritesheetImporter\KenneySpritesheetImporter\obj\Release\KenneySpritesheetImporter.csproj.CoreCompileInputs.cache
+C:\Users\Matic\Source\Repos\KenneySpritesheetImporter\KenneySpritesheetImporter\obj\Release\KenneySpritesheetImporter.csproj.CopyComplete
+C:\Users\Matic\Source\Repos\KenneySpritesheetImporter\KenneySpritesheetImporter\obj\Release\KenneySpritesheetImporter.dll
+C:\Users\Matic\Source\Repos\KenneySpritesheetImporter\KenneySpritesheetImporter\obj\Release\KenneySpritesheetImporter.pdb
